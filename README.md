@@ -28,7 +28,7 @@ Here's the list of must-work in the upgrade:
 - yum
 - yumex
 
-  I also figured out (by looking at the Fedora repos (https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/) for the version of the library which Fedora release I could start with.  I knew Fedora 29 was a no go, So I started at Fedora 25.
+I also figured out (by looking at the Fedora repos (https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/) for the version of the library which Fedora release I could start with.  I knew Fedora 29 was a no go, So I started at Fedora 25.
 
 ### Down With Forced Obsolescence
 
