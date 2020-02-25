@@ -1,4 +1,4 @@
-# Installing A Working Fedora 27 x86_64 Release
+# Installing A Working Fedora 28 x86_64 Release
 
 I have been using Fedora for quite some time.  It was my first Linux distro as far back as Fedora 8.  Recently, I wanted to upgrade to the latest version of Fedora, at the time of this writing, which is Fedora 31 (KDE Plasma 5.17.5).  I'm a KDE fan, and I have been using it since Fedora 8.
 
@@ -10,7 +10,7 @@ But, robust package managers were developed to handle these complex dependencies
 
 Anyway, all of that long winded stuff was to provide the context of how complicated an OS installation can be.  Trying to figure out these dependencies and interaction between various packages is way, way too much to do by hand anymore (not impossible, but really, really impracticable).
 
-### So, What's The "Big Deal" About Installing Fedora 27?
+### So, What's The "Big Deal" About Installing Fedora 28?
 
 Well, it started when something I needed to do required a later version of a library.  Unfortunately, there was no easy upgrade path for that library on the current version of Fedora I was running -- too many upstream problems and those broke some things on the installed system.  So I decided to upgrade my Fedora version.  The version I picked (at that time) was Fedora 29.
 
